@@ -1,0 +1,12 @@
+transformers
+datasets
+accelerate
+sentence-transformers
+scikit-learn
+scipy
+pandas
+numpy
+pyyaml
+tqdm
+matplotlib
+statsmodels
